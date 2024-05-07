@@ -1,3 +1,5 @@
 # EHRSQL_NACCL
 
-NACCL EHR2SQL Challenge opensourced code
+2024 NACCL 
+
+EHR2SQL Shared task opensourced code
